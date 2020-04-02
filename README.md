@@ -9,4 +9,5 @@ McMarket link: https://www.mc-market.org/resources/10770/
 Discord link: https://discord.gg/GBZKR3n
 
 bStats:
+
 ![](https://bstats.org/signatures/bukkit/iSpigot.svg)
