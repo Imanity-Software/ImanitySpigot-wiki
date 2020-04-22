@@ -8,6 +8,7 @@ The 1.8.8 paper spigot fork, Focus on pvp, performance and api improvement
 * [Discord](https://discord.gg/GBZKR3n)
 
 ![](https://i.imgur.com/lQgR1yZ.png)
+Regular: (Purchase right here) (IP Limit: 2, Can purchase extra in our discord server, up to 7)
 - 1.8.8 PaperSpigot based, but with 1.7-1.15.2 client compatibility. (ViaVersion & ViaRewind Built-In)
 - Automatic updater, the server will automatically download the server jar and other libraries if there is a new version available. It means you don't have to redownload everything whenever we push an update to the MC-Market.
 - Configurable Cave Generation (Badlion 6.0 Cave), you can configure how will your [all] ores in the world to be generated.
@@ -31,6 +32,12 @@ The 1.8.8 paper spigot fork, Focus on pvp, performance and api improvement
 - Developer Friendly, we integrated an extensive API for server developers to use.
 - General network optimizations (For instance, TCP No Delay Enabled, Cached NetworkManager connection, etc.)
 - Other configurations are waiting for you to discover..
+
+Custom: (Purchase in discord, If you purchased regular already, you only need to cost 30$ for purchasing this variants) (IP Limit: 5, Can purchase extra ip-limits in our discord server)
+- Including all features from regular variant
+- Credit removing, custom /version command
+- Ability to renaming and customize the spigot completely
+- Ability to request some iSpigot dependent addons
 
 bStats:
 
